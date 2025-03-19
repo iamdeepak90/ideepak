@@ -40,7 +40,7 @@ const About = (props) => {
                                         <p>Awards Win</p>
                                     </div>
                                     <div className="tf-funfact-item">
-                                        <h3><span>2</span>M+</h3>
+                                        <h3><span>100</span>+</h3>
                                         <p>Happy clients</p>
                                     </div>
                                 </div>
