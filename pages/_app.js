@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <Head>
-        <title>Tonu - Creative Portfolio Next Template</title>
+        <title>DEEPAK MISHRA - CS-Cart | Wordpress & WooCommerce | PHP & Laravel | React & Next.js</title>
       </Head>
       <Component {...pageProps} />
     </div>
