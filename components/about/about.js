@@ -23,7 +23,7 @@ const About = (props) => {
                         <div className="col-lg-6 col-md-12 col-12">
                             <div className="tf-about-text">
                                 <small>about Me</small>
-                                <h2>Welcome to Tonu, Best Software Services</h2>
+                                <h2>Expertise in CS-Cart, WordPress & E-Commerce Development</h2>
                                 <h5>I have 8+ years of experiences in Software Development for give you better services.</h5>
                                 <p>A wonderful serenity has taken possession of my entire soul, like these sweet
                                     mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm
